@@ -1,0 +1,204 @@
+/*Large devices*/
+@media (max-width: 1199.98px) { ... }
+
+/*Medium devices*/
+@media (max-width: 991.98px) { 
+.navbar-toggler i{
+        color: #000;
+        font-size: 30px;
+    }
+    .navbar-nav {
+	text-align: center;
+	padding: 10px 0;
+	background: #0872b9;
+}
+     .navbar-expand-lg .navbar-nav .nav-link {
+	padding-bottom: 5px;
+}
+    .navbar-light .navbar-nav .nav-link {
+	color: #fff;
+}
+    .text-right {
+	margin-top: -20px;
+}
+    .aboutus-text h3 {
+	padding-bottom: 30px;
+	margin-left: 0;
+	margin-top: 20px;
+}
+    .aboutus-text img {
+	left: 0px;
+}
+    .service-text img {
+	position: absolute;
+	left: 42%;
+	top: 30px;
+}
+    .service-item {
+	margin-top: 50px;
+}
+    #aboutus {
+	padding-bottom: 0;
+}
+    .service-text h3 {
+	padding-bottom: 20px;
+}
+    .portfolio-text img {
+	left: 42%;
+}
+    .team-text img {
+	left: 42%;
+}
+    .team-item p {
+	margin-bottom: 30px;
+}
+    .testimonial-img {
+        padding-top: 20px;
+}
+    
+}
+
+/*Small devices*/
+@media (max-width: 767.98px) { 
+.navbar-toggler i{
+        color: #000;
+        font-size: 30px;
+    }
+    .navbar-nav {
+	text-align: center;
+	padding: 10px 0;
+	background: #0872b9;
+}
+     .navbar-expand-lg .navbar-nav .nav-link {
+	padding-bottom: 5px;
+}
+    .navbar-light .navbar-nav .nav-link {
+	color: #fff;
+}
+    .text-right {
+	margin-top: -20px;
+}
+    .service-text img {
+	left: 30%;
+	top: 35px;
+}
+    .aboutus-text h3 {
+	padding-bottom: 30px;
+	margin-left: 0;
+	margin-top: 20px;
+}
+    .service-text img {
+	left: 38%;
+}
+    #aboutus {
+	padding-bottom: 0px;
+}
+    .aboutus-text img {
+	left: 0px;
+}
+    .service-item {
+	margin-top: 50px;
+}
+    .service-text h3 {
+	padding-bottom: 20px;
+}
+    .portfolio-text img {
+	left: 38%;
+}
+    .team-text img {
+	left: 41%;
+}
+    .team-item p {
+	margin-bottom: 30px;
+}
+    .testimonial-img {
+	margin-left: 41%;
+        padding-top: 20px;
+}
+    .about-item h3 {
+	padding-bottom: 10px;
+	padding-top: 20px;
+}
+    
+}
+
+/*Extra small devices*/
+@media (max-width: 575.98px) { 
+.navbar-toggler i{
+        color: #000;
+        font-size: 30px;
+    }
+    .navbar-nav {
+	text-align: center;
+	padding: 10px 0;
+	background: #0872b9;
+}
+     .navbar-expand-lg .navbar-nav .nav-link {
+	padding-bottom: 5px;
+}
+    .navbar-light .navbar-nav .nav-link {
+	color: #fff;
+}
+    .text-right {
+	margin-top: -20px;
+}
+    .banner-text h4 {
+	font-size: 25px;
+	text-align: center;
+}
+    .banner-text h3 {
+	font-size: 39px;
+}
+    .banner-text p {
+	text-align: center;
+}
+    .banner-btn {
+	float: left;
+}
+    .service-text img {
+	left: 30%;
+	top: 35px;
+}
+    .aboutus-text h3 {
+	padding-bottom: 30px;
+	margin-left: 0;
+	margin-top: 20px;
+}
+    .aboutus-text img {
+	left: 0px;
+}
+    #aboutus {
+	padding-bottom: 0px;
+}
+    .service-item {
+	margin-top: 50px;
+}
+    .service-text h3 {
+	padding-bottom: 20px;
+}
+    .portfolio-text img {
+	left: 85px;
+}
+    .team-text img {
+	left: 35%;
+}
+    .team-item p {
+	margin-bottom: 30px;
+}
+    .testimonial-img {
+	margin-left: 38%;
+        padding-top: 20px;
+}
+    .about-item h3 {
+	padding-bottom: 0;
+	padding-top: 20px;
+}
+    .fooder-text p {
+	font-size: 12px;
+}
+    
+}
+
+
+
+
